@@ -5,6 +5,7 @@ The network architecture is shown as:
 ![blockchain](https://github.com/ZhangYH0502/TS-SSL/blob/master/figure/figure1.jpg "network architecture")
 
 How to use this code:
+
 (1) prepare your medical dataset and divide the dataset to two subset: labeled set and unlabel set
 
 (2) edit the customised train data path in train.py and then run train.py to train model
